@@ -14,7 +14,7 @@ The goal of this project is to enhance Arabic text quality by automatically dete
 
 - **Structure:**  
   - `correct`: Correct Arabic sentences  
-  - `incorrect`: Artificially generated incorrect versions
+  - `incorrect`: Incorrect Arabic sentences 
 - **Preprocessing:**
   - Normalized Arabic characters (e.g., "أ" → "ا", "ة" → "ه")
   - Removed punctuation, digits, and non-Arabic characters
