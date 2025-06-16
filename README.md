@@ -74,10 +74,3 @@ Below is a screenshot from the Streamlit interface:
 
 ![Streamlit Demo](streamlit_demo.png)
 
-
-## 🚀 How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/arabic-auto-correction.git
-   cd arabic-auto-correction
