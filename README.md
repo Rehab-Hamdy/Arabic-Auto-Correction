@@ -12,7 +12,6 @@ The goal of this project is to enhance Arabic text quality by automatically dete
 
 ## 📚 Dataset
 
-- **Source:** [Kaggle - Arabic Auto Correct Dataset](https://www.kaggle.com/datasets/muheshaam/arabic)
 - **Structure:**  
   - `correct`: Correct Arabic sentences  
   - `incorrect`: Artificially generated incorrect versions
